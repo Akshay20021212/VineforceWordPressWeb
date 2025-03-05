@@ -26,7 +26,7 @@ define( 'DB_NAME', 'git-site-new' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'admin@2025' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
