@@ -1,0 +1,37 @@
+<?php
+require_once( 'shortcodes/heading.php' );
+require_once( 'shortcodes/text.php' );
+require_once( 'shortcodes/image.php' );
+require_once( 'shortcodes/social-buttons.php' );
+require_once( 'shortcodes/blog.php' );
+require_once( 'shortcodes/features-box.php' );
+require_once( 'shortcodes/counter.php' );
+require_once( 'shortcodes/image-box.php' );
+require_once( 'shortcodes/image-carousel.php' );
+require_once( 'shortcodes/screenshots-carousel.php' );
+require_once( 'shortcodes/button.php' );
+require_once( 'shortcodes/reviews-carousel.php' );
+require_once( 'shortcodes/reviews-tabs.php' );
+require_once( 'shortcodes/gallery.php' );
+require_once( 'shortcodes/social-icons.php' );
+require_once( 'shortcodes/icon-list.php' );
+require_once( 'shortcodes/portfolio.php' );
+require_once( 'shortcodes/team-member.php' );
+require_once( 'shortcodes/pricing.php' );
+require_once( 'shortcodes/blockquote.php' );
+require_once( 'shortcodes/layout.php' );
+require_once( 'shortcodes/posts.php' );
+require_once( 'shortcodes/collage-box.php' );
+require_once( 'shortcodes/countdown.php' );
+require_once( 'shortcodes/scene.php' );
+require_once( 'shortcodes/scene-animation.php' );
+require_once( 'shortcodes/accordion.php' );
+require_once( 'shortcodes/testimonial.php' );
+require_once( 'shortcodes/progress-bar.php' );
+require_once( 'shortcodes/products-tabs.php' );
+require_once( 'shortcodes/brands.php' );
+require_once( 'shortcodes/tabs.php' );
+require_once( 'shortcodes/woo-products.php' );
+require_once( 'shortcodes/woo-product-categories.php' );
+
+add_shortcode( 'display_search_form', 'killarwt_search_form' );

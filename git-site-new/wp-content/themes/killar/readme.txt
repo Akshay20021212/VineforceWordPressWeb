@@ -1,0 +1,1 @@
+=== killar ===Please read our documentation from main-files folder which is included with download folder. You will get all instruction from there.

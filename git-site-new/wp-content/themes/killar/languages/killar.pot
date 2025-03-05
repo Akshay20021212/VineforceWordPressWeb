@@ -1,0 +1,4072 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Killar 1.0.0\n"
+"POT-Creation-Date: 2024-08-26 10:54+0530\n"
+"PO-Revision-Date: 2023-05-15 16:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n;_nc;_x;_ex;_nx;esc_attr__;esc_attr_e;"
+"esc_attr_x;esc_html__;esc_html_e;esc_html_x;__ngettext;"
+"__ngettext_noop;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:20 inc/customizer/options/class-wt-customizer-pages.php:68
+msgid ""
+"The page you are looking for was moved, removed or might never "
+"existed."
+msgstr ""
+
+#: 404.php:24
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:22
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgid "%1$s comment"
+msgstr ""
+
+#: comments.php:51
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:65
+#: inc/customizer/options/class-wt-customizer-blog-post.php:435
+#: inc/customizer/options/class-wt-customizer-blog-post.php:848
+#: inc/customizer/options/class-wt-customizer-blog-post.php:872
+#: template-parts/portfolio-loop/meta.php:54
+#: template-parts/portfolio-loop/meta.php:56
+#: template-parts/post-loop/meta.php:58
+#: template-parts/post-loop/meta.php:60
+#: template-parts/single-portfolio/meta.php:56
+#: template-parts/single-portfolio/meta.php:58
+#: template-parts/single-post/meta.php:53
+#: template-parts/single-post/meta.php:55
+msgid "Comments"
+msgstr ""
+
+#: comments.php:96
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:168
+#: inc/customizer/options/class-wt-customizer-topbar.php:30
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:169
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:170
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:217
+msgid "Please select Plugins you want to install"
+msgstr ""
+
+#: functions.php:218
+msgid "Please choose a file to import."
+msgstr ""
+
+#: functions.php:233
+msgid "Chose menu image"
+msgstr ""
+
+#: functions.php:234
+msgid "Select"
+msgstr ""
+
+#: functions.php:503
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:514
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: functions.php:525
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/admin/classes/class-import-export.php:165
+msgid "Error importing settings! Please try again."
+msgstr ""
+
+#: inc/admin/classes/class-import-export.php:180
+#: inc/admin/classes/class-import-export.php:184
+msgid ""
+"Error importing settings! Please check that you uploaded a "
+"customizer export file."
+msgstr ""
+
+#: inc/admin/classes/class-import-export.php:188
+msgid ""
+"Error importing settings! The settings you uploaded are not for the "
+"current theme."
+msgstr ""
+
+#: inc/admin/classes/class-import-export.php:206
+msgid "Settings imported successfully."
+msgstr ""
+
+#: inc/admin/classes/class-import-export.php:209
+msgid "No import data found."
+msgstr ""
+
+#: inc/admin/classes/class-updater.php:52
+msgid "Purchase code field required"
+msgstr ""
+
+#: inc/admin/classes/class-updater.php:182
+#, php-format
+msgid ""
+" %1$s Theme is not activated! Please activate your theme and enjoy "
+"all features of the %2$s theme"
+msgstr ""
+
+#: inc/admin/classes/class-updater.php:186
+msgid "Please activate the theme!"
+msgstr ""
+
+#: inc/admin/classes/class-updater.php:188
+msgid "Activate Now"
+msgstr ""
+
+#: inc/admin/views/customizer-import-export.php:12
+msgid ""
+"Activate your theme in order to be able to import/export settings."
+msgstr ""
+
+#: inc/admin/views/customizer-import-export.php:17
+msgid ""
+"Export Customizer settings of the current theme and import on a "
+"Child Theme or use to create your own default styling for the next "
+"website."
+msgstr ""
+
+#: inc/admin/views/customizer-import-export.php:24
+#: inc/admin/views/customizer-import-export.php:30
+msgid "Export"
+msgstr ""
+
+#: inc/admin/views/customizer-import-export.php:29
+msgid ""
+"Click the button below to export the customization settings for this "
+"theme."
+msgstr ""
+
+#: inc/admin/views/customizer-import-export.php:41
+#: inc/admin/views/customizer-import-export.php:59
+msgid "Import"
+msgstr ""
+
+#: inc/admin/views/customizer-import-export.php:55
+msgid ""
+"Choose a valid .dat file, previously generated using the Export "
+"Customizer Styling option."
+msgstr ""
+
+#: inc/admin/views/dashboard.php:13
+msgid ""
+"Activate your theme in order to be able to download and update "
+"addons."
+msgstr ""
+
+#: inc/admin/views/dashboard.php:20
+msgid "Purchase Code"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:21
+#: inc/integrations/tgm/plugins-handler.php:221
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:21
+msgid "No Activated"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:27
+msgid "Your product is registered now."
+msgstr ""
+
+#: inc/admin/views/dashboard.php:29 inc/admin/views/dashboard.php:38
+msgid "Enter Purchased Code"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:31
+msgid "Deactive Theme"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:36
+msgid "Please enter your Purchase Code to complete registration."
+msgstr ""
+
+#: inc/admin/views/dashboard.php:40
+msgid "Active Theme"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:41
+msgid "You can find your purchase code"
+msgstr ""
+
+#: inc/admin/views/header.php:16
+msgid "Welcome to Killar!"
+msgstr ""
+
+#: inc/admin/views/header.php:21
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/admin/views/header.php:23
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/views/header.php:24
+msgid "Support forum"
+msgstr ""
+
+#: inc/admin/views/header.php:30
+msgid "Dashboard"
+msgstr ""
+
+#: inc/admin/views/header.php:36
+msgid "Import / Export"
+msgstr ""
+
+#: inc/admin/views/system-status.php:19
+msgid "Theme Information"
+msgstr ""
+
+#: inc/admin/views/system-status.php:26
+msgid "Theme Name"
+msgstr ""
+
+#: inc/admin/views/system-status.php:30
+msgid "Current Version"
+msgstr ""
+
+#: inc/admin/views/system-status.php:34
+msgid "Installation Path"
+msgstr ""
+
+#: inc/admin/views/system-status.php:38
+msgid "Killar Server Status"
+msgstr ""
+
+#: inc/admin/views/system-status.php:40
+msgid "The server is unable to connect with the external websites."
+msgstr ""
+
+#: inc/admin/views/system-status.php:54
+msgid "System Requirement"
+msgstr ""
+
+#: inc/admin/views/system-status.php:61
+msgid "Server"
+msgstr ""
+
+#: inc/admin/views/system-status.php:65
+msgid "PHP Version"
+msgstr ""
+
+#: inc/admin/views/system-status.php:69
+msgid "Uploads folder writable"
+msgstr ""
+
+#: inc/admin/views/system-status.php:75
+msgid ""
+"Uploads folder must be writable. Please set write permission to your "
+"wp-content/uploads folder."
+msgstr ""
+
+#: inc/admin/views/system-status.php:80
+msgid "ZipArchive"
+msgstr ""
+
+#: inc/admin/views/system-status.php:86
+msgid ""
+"ZipArchive is required for pre-built websites and plugins "
+"installation. Please contact your hosting provider."
+msgstr ""
+
+#: inc/admin/views/system-status.php:91
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: inc/admin/views/system-status.php:100
+msgid ""
+"Minimum <strong>128 MB</strong> is required. Least <strong>256 MB</"
+"strong> is recommended."
+msgstr ""
+
+#: inc/admin/views/system-status.php:104
+msgid ""
+"Current memory limit is OK, however <strong>256 MB</strong> is "
+"recommended."
+msgstr ""
+
+#: inc/admin/views/system-status.php:106
+#, php-format
+msgid ""
+"Please define memory limit in <strong>wp-config.php</strong> file. "
+"To learn how, see: <a href=\"%1$s\" target=\"_blank\">Increasing max "
+"execution to PHP</a>"
+msgstr ""
+
+#: inc/admin/views/system-status.php:111
+msgid "PHP Time Limit"
+msgstr ""
+
+#: inc/admin/views/system-status.php:120
+msgid ""
+"Minimum <strong>300</strong> is required. Least <strong>600</strong> "
+"is recommended."
+msgstr ""
+
+#: inc/admin/views/system-status.php:124
+msgid ""
+"Current memory limit is OK, however <strong>600</strong> is "
+"recommended."
+msgstr ""
+
+#: inc/admin/views/system-status.php:126
+#, php-format
+msgid ""
+"To learn how, see: <a href=\"%1$s\" target=\"_blank\">Increasing "
+"memory allocated to PHP.</a>"
+msgstr ""
+
+#: inc/admin/views/system-status.php:131
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: inc/admin/views/system-status.php:139
+msgid "Minimum <strong>2000</strong> is required."
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:289
+msgid "Browse:"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:290
+#: inc/customizer/options/class-wt-customizer-blog-post.php:805
+#: inc/customizer/options/class-wt-customizer-page-title.php:397
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:291
+msgid "Home"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:292
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:293
+msgid "Archives"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:295
+msgid "Search results for"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:297
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:299
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:301
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:303
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:837
+msgid "g:i a"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:854
+msgid "i"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:871
+msgid "g a"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:887 inc/classes/breadcrumbs.php:916
+#: inc/classes/breadcrumbs.php:943 inc/classes/breadcrumbs.php:970
+#: inc/classes/breadcrumbs.php:1314 inc/helpers.php:1785
+#: inc/helpers.php:1831
+msgid "Y"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:888 inc/classes/breadcrumbs.php:944
+#: inc/classes/breadcrumbs.php:1318
+msgid "F"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:889 inc/classes/breadcrumbs.php:1322
+msgid "j"
+msgstr ""
+
+#: inc/classes/breadcrumbs.php:917
+msgid "W"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:43 inc/classes/class-meta-box.php:73
+#: inc/classes/class-meta-box.php:109
+#: inc/classes/class-meta-box.php:120
+#: inc/classes/class-meta-box.php:129
+#: inc/classes/class-meta-box.php:138
+#: inc/classes/class-meta-box.php:147
+#: inc/classes/class-meta-box.php:158
+#: inc/classes/class-meta-box.php:177
+#: inc/classes/class-meta-box.php:189
+#: inc/classes/class-meta-box.php:201
+#: inc/classes/class-meta-box.php:213
+#: inc/classes/class-meta-box.php:233
+#: inc/classes/class-meta-box.php:251
+#: inc/classes/class-meta-box.php:273
+#: inc/classes/class-meta-box.php:293
+#: inc/classes/class-meta-box.php:306
+#: inc/classes/class-meta-box.php:321
+#: inc/classes/class-meta-box.php:453
+#: inc/customizer/controls/typography/class-control-typography.php:68
+#: inc/customizer/options/class-wt-customizer-blog-post.php:120
+#: inc/customizer/options/class-wt-customizer-blog-post.php:280
+#: inc/customizer/options/class-wt-customizer-blog-post.php:339
+#: inc/customizer/options/class-wt-customizer-blog-post.php:575
+#: inc/customizer/options/class-wt-customizer-blog-post.php:708
+#: inc/customizer/options/class-wt-customizer-blog-post.php:767
+#: inc/customizer/options/class-wt-customizer-blog-post.php:953
+#: inc/customizer/options/class-wt-customizer-header.php:370
+#: inc/customizer/options/class-wt-customizer-header.php:398
+#: inc/customizer/options/class-wt-customizer-page-title.php:242
+#: inc/customizer/options/class-wt-customizer-page-title.php:272
+#: inc/customizer/options/class-wt-customizer-page-title.php:295
+#: inc/customizer/options/class-wt-customizer-page-title.php:320
+#: inc/customizer/options/class-wt-customizer-portfolio.php:171
+#: inc/customizer/options/class-wt-customizer-portfolio.php:431
+#: inc/customizer/options/class-wt-customizer-portfolio.php:489
+#: inc/customizer/options/class-wt-customizer-portfolio.php:693
+#: inc/customizer/options/class-wt-customizer-portfolio.php:826
+#: inc/customizer/options/class-wt-customizer-portfolio.php:884
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1071
+#: inc/customizer/options/class-wt-customizer-social.php:99
+#: inc/customizer/options/class-wt-customizer-social.php:122
+#: inc/customizer/options/class-wt-customizer-social.php:274
+#: inc/customizer/options/class-wt-customizer-social.php:297
+#: inc/customizer/options/class-wt-customizer-typography.php:190
+#: inc/customizer/options/class-wt-customizer-typography.php:227
+#: inc/customizer/options/class-wt-customizer-typography.php:258
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:438
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:496
+#: inc/customizer/options/class-wt-customizer-woo.php:203
+#: inc/customizer/options/class-wt-customizer-woo.php:261
+#: inc/customizer/options/class-wt-customizer-woo.php:539
+#: inc/customizer/options/class-wt-customizer-woo.php:609
+msgid "Default"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:43
+#: inc/customizer/options/class-wt-customizer-blog-post.php:301
+#: inc/customizer/options/class-wt-customizer-blog-post.php:729
+#: inc/customizer/options/class-wt-customizer-blog-post.php:807
+#: inc/customizer/options/class-wt-customizer-blog-post.php:974
+#: inc/customizer/options/class-wt-customizer-portfolio.php:452
+#: inc/customizer/options/class-wt-customizer-portfolio.php:847
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1093
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:459
+#: inc/customizer/options/class-wt-customizer-woo.php:224
+#: inc/helpers.php:1186 inc/helpers.php:2378
+msgid "Hidden"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:48 inc/customizer/customizer.php:74
+msgid "Killar Options"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:68
+#: inc/customizer/options/class-wt-customizer-blog-post.php:55
+#: inc/customizer/options/class-wt-customizer-blog-post.php:635
+#: inc/customizer/options/class-wt-customizer-general.php:161
+#: inc/customizer/options/class-wt-customizer-portfolio.php:55
+#: inc/customizer/options/class-wt-customizer-portfolio.php:754
+msgid "Page Layout"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:74
+msgid "Full Width"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:75
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:76
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:81
+#: inc/customizer/options/class-wt-customizer-blog-post.php:75
+#: inc/customizer/options/class-wt-customizer-blog-post.php:655
+#: inc/customizer/options/class-wt-customizer-portfolio.php:75
+#: inc/customizer/options/class-wt-customizer-portfolio.php:774
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:68
+#: inc/customizer/options/class-wt-customizer-woo.php:82
+msgid "Sidebar"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:90
+msgid "Page Extra Classes"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:94
+msgid "Add a class names and refer to it in custom CSS."
+msgstr ""
+
+#: inc/classes/class-meta-box.php:104
+msgid "Display Top Bar"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:110
+#: inc/classes/class-meta-box.php:159
+#: inc/classes/class-meta-box.php:178
+#: inc/classes/class-meta-box.php:190
+#: inc/classes/class-meta-box.php:202
+#: inc/customizer/options/class-wt-customizer-woo.php:744
+msgid "Enable"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:111
+#: inc/classes/class-meta-box.php:160
+#: inc/classes/class-meta-box.php:179
+#: inc/classes/class-meta-box.php:191
+#: inc/classes/class-meta-box.php:203
+#: inc/customizer/options/class-wt-customizer-woo.php:745
+msgid "Disable"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:116
+#: inc/customizer/options/class-wt-customizer-header.php:54
+msgid "Header Style"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:125
+#: inc/customizer/options/class-wt-customizer-header.php:101
+msgid "Header Right Layout"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:134
+#: inc/customizer/options/class-wt-customizer-mobile.php:108
+msgid "Mobile Header Right Layout"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:143
+#: template-parts/elements/advance-navigation.php:14
+msgid "Advance Navigation"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:152
+#: inc/customizer/options/class-wt-customizer-header.php:71
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:171
+msgid "Display Page Title Section"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:183
+msgid "Display Page Title Heading"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:195
+msgid "Display Page Title Breadcrumb"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:207
+msgid "Page Title Text"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:214
+#: inc/customizer/options/class-wt-customizer-blog-post.php:303
+#: inc/customizer/options/class-wt-customizer-blog-post.php:731
+#: inc/customizer/options/class-wt-customizer-portfolio.php:454
+#: inc/customizer/options/class-wt-customizer-portfolio.php:849
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:461
+#: inc/customizer/options/class-wt-customizer-woo.php:226
+msgid "Post Title"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:215
+#: inc/customizer/options/class-wt-customizer-blog-post.php:340
+#: inc/customizer/options/class-wt-customizer-blog-post.php:769
+#: inc/customizer/options/class-wt-customizer-general.php:503
+#: inc/customizer/options/class-wt-customizer-portfolio.php:490
+#: inc/customizer/options/class-wt-customizer-portfolio.php:886
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:498
+#: inc/customizer/options/class-wt-customizer-woo.php:262
+msgid "Custom"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:219
+#: inc/customizer/options/class-wt-customizer-blog-post.php:318
+#: inc/customizer/options/class-wt-customizer-blog-post.php:746
+#: inc/customizer/options/class-wt-customizer-portfolio.php:468
+#: inc/customizer/options/class-wt-customizer-portfolio.php:863
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:475
+#: inc/customizer/options/class-wt-customizer-woo.php:240
+msgid "Page Title Custom Text"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:224
+msgid ""
+"You can add custom page title and leave blank for the default value."
+msgstr ""
+
+#: inc/classes/class-meta-box.php:227
+#: inc/customizer/options/class-wt-customizer-page-title.php:62
+msgid "Page Title Style"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:234
+#: inc/customizer/options/class-wt-customizer-page-title.php:68
+msgid "Left Alignment"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:235
+#: inc/customizer/options/class-wt-customizer-page-title.php:69
+msgid "Center Alignment"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:236
+#: inc/customizer/options/class-wt-customizer-page-title.php:70
+msgid "Right Alignment"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:245
+msgid "Display Background"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:252
+#: inc/customizer/options/class-wt-customizer-page-title.php:203
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:190
+msgid "Image"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:253
+#: inc/customizer/options/class-wt-customizer-page-title.php:204
+#: inc/customizer/options/class-wt-customizer-page-title.php:376
+msgid "Scene"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:254
+#: inc/customizer/options/class-wt-customizer-blog-post.php:341
+#: inc/customizer/options/class-wt-customizer-blog-post.php:556
+#: inc/customizer/options/class-wt-customizer-blog-post.php:770
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1017
+#: inc/customizer/options/class-wt-customizer-page-title.php:202
+#: inc/customizer/options/class-wt-customizer-page-title.php:382
+#: inc/customizer/options/class-wt-customizer-portfolio.php:491
+#: inc/customizer/options/class-wt-customizer-portfolio.php:655
+#: inc/customizer/options/class-wt-customizer-portfolio.php:887
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1141
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:160
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:499
+#: inc/customizer/options/class-wt-customizer-woo.php:263
+msgid "Hide"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:258
+#: inc/customizer/options/class-wt-customizer-general.php:333
+#: inc/customizer/options/class-wt-customizer-page-title.php:218
+msgid "Background Image"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:267
+#: inc/customizer/options/class-wt-customizer-page-title.php:236
+msgid "Background Position"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:274
+#: inc/classes/class-meta-box.php:294
+#: inc/classes/class-meta-box.php:307
+#: inc/classes/class-meta-box.php:322
+msgid "Initial"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:275
+#: inc/customizer/options/class-wt-customizer-page-title.php:243
+msgid "Top Left"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:276
+#: inc/customizer/options/class-wt-customizer-page-title.php:244
+msgid "Top Center"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:277
+#: inc/customizer/options/class-wt-customizer-page-title.php:245
+msgid "Top Right"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:278
+#: inc/customizer/options/class-wt-customizer-page-title.php:246
+msgid "Center Left"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:279
+#: inc/customizer/options/class-wt-customizer-page-title.php:247
+msgid "Center Center"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:280
+#: inc/customizer/options/class-wt-customizer-page-title.php:248
+msgid "Center Right"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:281
+#: inc/customizer/options/class-wt-customizer-page-title.php:249
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:282
+#: inc/customizer/options/class-wt-customizer-page-title.php:250
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:283
+#: inc/customizer/options/class-wt-customizer-page-title.php:251
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:287
+#: inc/customizer/options/class-wt-customizer-page-title.php:266
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:295
+#: inc/customizer/options/class-wt-customizer-page-title.php:273
+msgid "fixed"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:296
+#: inc/customizer/options/class-wt-customizer-page-title.php:274
+msgid "scroll"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:300
+#: inc/customizer/options/class-wt-customizer-page-title.php:289
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:308
+#: inc/customizer/options/class-wt-customizer-page-title.php:296
+msgid "No-repeat"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:309
+#: inc/customizer/options/class-wt-customizer-page-title.php:297
+msgid "Repeat"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:310
+#: inc/customizer/options/class-wt-customizer-page-title.php:298
+msgid "Repeat-x"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:311
+#: inc/customizer/options/class-wt-customizer-page-title.php:299
+msgid "Repeat-y"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:315
+#: inc/customizer/options/class-wt-customizer-page-title.php:314
+msgid "Background Size"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:323
+#: inc/customizer/options/class-wt-customizer-page-title.php:321
+msgid "Auto"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:324
+#: inc/customizer/options/class-wt-customizer-page-title.php:322
+msgid "Contain"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:325
+#: inc/customizer/options/class-wt-customizer-page-title.php:323
+msgid "Cover"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:326
+#: inc/customizer/options/class-wt-customizer-page-title.php:324
+msgid "Unset"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:330
+#: inc/customizer/options/class-wt-customizer-page-title.php:339
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:331
+msgid "Set -1 to the default options."
+msgstr ""
+
+#: inc/classes/class-meta-box.php:343
+#: inc/customizer/options/class-wt-customizer-page-title.php:360
+msgid "Overlay Background Color"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:355
+#: inc/customizer/options/class-wt-customizer-page-title.php:478
+msgid "Page Title Font Size"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:360
+msgid ""
+"You can add size in (px,em,%) and leave blank for the default value."
+msgstr ""
+
+#: inc/classes/class-meta-box.php:363
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:370
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:377
+msgid "Header Separator Color"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:384
+msgid "Header Link Color"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:391
+msgid "Header Link Hover Color"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:408
+#: inc/customizer/options/class-wt-customizer-footer.php:42
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:414
+msgid "Select custom footer from Layouts Builder. Default : default"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:442
+msgid "Post Options"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:448
+msgid "Post Layout"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:454
+#: inc/customizer/options/class-wt-customizer-typography.php:228
+msgid "Normal"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:455
+msgid "Compact"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:460
+msgid "Sections Positions"
+msgstr ""
+
+#: inc/classes/class-meta-box.php:465
+msgid ""
+"Set the custom position of post sections and leave blank to set as "
+"default( customize ) positions."
+msgstr ""
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:50
+msgid "Invalid Value"
+msgstr ""
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:80
+msgid "Link values together"
+msgstr ""
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:185
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:189
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:193
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:186
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:190
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:194
+#: inc/customizer/options/class-wt-customizer-blog-post.php:283
+#: inc/customizer/options/class-wt-customizer-blog-post.php:711
+#: inc/customizer/options/class-wt-customizer-portfolio.php:434
+#: inc/customizer/options/class-wt-customizer-portfolio.php:829
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:441
+#: inc/customizer/options/class-wt-customizer-woo.php:206
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:187
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:191
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:195
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:188
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:192
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:196
+#: inc/customizer/options/class-wt-customizer-blog-post.php:281
+#: inc/customizer/options/class-wt-customizer-blog-post.php:709
+#: inc/customizer/options/class-wt-customizer-portfolio.php:432
+#: inc/customizer/options/class-wt-customizer-portfolio.php:827
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:439
+#: inc/customizer/options/class-wt-customizer-woo.php:204
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/controls/media-columns/class-control-media-columns.php:122
+#: inc/customizer/controls/media-columns/class-control-media-columns.php:134
+#: inc/customizer/controls/media-columns/class-control-media-columns.php:146
+#: inc/customizer/controls/slider/class-control-slider.php:89
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/controls/typography/class-control-typography.php:74
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/controls/typography/class-control-typography.php:89
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/customizer-sanitizes.php:182
+msgid "Please choose an image"
+msgstr ""
+
+#: inc/customizer/customizer-sanitizes.php:185
+msgid "Please choose a valid image type"
+msgstr ""
+
+#: inc/customizer/customizer.php:93
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:32
+msgid "Blog / Post"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:41
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:76
+msgid "Choose sidebar for display on the Blog / Archive page."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:93
+msgid "Blog View"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:98
+#: inc/customizer/options/class-wt-customizer-blog-post.php:460
+#: inc/customizer/options/class-wt-customizer-blog-post.php:973
+#: inc/customizer/options/class-wt-customizer-portfolio.php:584
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1092
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:99
+msgid "Full Center"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:100
+msgid "List"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:101
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:102
+msgid "Modern"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:115
+#: inc/customizer/options/class-wt-customizer-blog-post.php:947
+#: inc/customizer/options/class-wt-customizer-portfolio.php:166
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1065
+msgid "Post Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:121
+#: inc/customizer/options/class-wt-customizer-blog-post.php:954
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1072
+msgid "Box"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:134
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:135
+msgid ""
+"Show numbers of items below list of screen size. Blog columns "
+"settings apply only grid and slider."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:151
+#: inc/customizer/options/class-wt-customizer-blog-post.php:176
+#: inc/customizer/options/class-wt-customizer-portfolio.php:302
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:138
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:658
+#: inc/customizer/options/class-wt-customizer-woo.php:377
+msgid "Large devices (desktops, 992px and up)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:157
+#: inc/customizer/options/class-wt-customizer-blog-post.php:182
+#: inc/customizer/options/class-wt-customizer-blog-post.php:207
+#: inc/customizer/options/class-wt-customizer-blog-post.php:230
+#: inc/customizer/options/class-wt-customizer-portfolio.php:258
+#: inc/customizer/options/class-wt-customizer-portfolio.php:283
+#: inc/customizer/options/class-wt-customizer-portfolio.php:308
+#: inc/customizer/options/class-wt-customizer-portfolio.php:333
+#: inc/customizer/options/class-wt-customizer-portfolio.php:358
+#: inc/customizer/options/class-wt-customizer-portfolio.php:381
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:117
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:144
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:168
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:192
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:214
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:664
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:688
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:712
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:734
+#: inc/customizer/options/class-wt-customizer-woo.php:329
+#: inc/customizer/options/class-wt-customizer-woo.php:356
+#: inc/customizer/options/class-wt-customizer-woo.php:383
+#: inc/customizer/options/class-wt-customizer-woo.php:407
+#: inc/customizer/options/class-wt-customizer-woo.php:431
+#: inc/customizer/options/class-wt-customizer-woo.php:453
+msgid "1 - Item"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:158
+#: inc/customizer/options/class-wt-customizer-blog-post.php:183
+#: inc/customizer/options/class-wt-customizer-blog-post.php:208
+#: inc/customizer/options/class-wt-customizer-blog-post.php:231
+#: inc/customizer/options/class-wt-customizer-portfolio.php:259
+#: inc/customizer/options/class-wt-customizer-portfolio.php:284
+#: inc/customizer/options/class-wt-customizer-portfolio.php:309
+#: inc/customizer/options/class-wt-customizer-portfolio.php:334
+#: inc/customizer/options/class-wt-customizer-portfolio.php:359
+#: inc/customizer/options/class-wt-customizer-portfolio.php:382
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:118
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:145
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:169
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:193
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:215
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:665
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:689
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:713
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:735
+#: inc/customizer/options/class-wt-customizer-woo.php:330
+#: inc/customizer/options/class-wt-customizer-woo.php:357
+#: inc/customizer/options/class-wt-customizer-woo.php:384
+#: inc/customizer/options/class-wt-customizer-woo.php:408
+#: inc/customizer/options/class-wt-customizer-woo.php:432
+#: inc/customizer/options/class-wt-customizer-woo.php:454
+msgid "2 - Item(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:159
+#: inc/customizer/options/class-wt-customizer-blog-post.php:184
+#: inc/customizer/options/class-wt-customizer-blog-post.php:209
+#: inc/customizer/options/class-wt-customizer-blog-post.php:232
+#: inc/customizer/options/class-wt-customizer-portfolio.php:260
+#: inc/customizer/options/class-wt-customizer-portfolio.php:285
+#: inc/customizer/options/class-wt-customizer-portfolio.php:310
+#: inc/customizer/options/class-wt-customizer-portfolio.php:335
+#: inc/customizer/options/class-wt-customizer-portfolio.php:360
+#: inc/customizer/options/class-wt-customizer-portfolio.php:383
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:119
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:146
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:170
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:194
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:216
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:666
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:690
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:714
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:736
+#: inc/customizer/options/class-wt-customizer-woo.php:331
+#: inc/customizer/options/class-wt-customizer-woo.php:358
+#: inc/customizer/options/class-wt-customizer-woo.php:385
+#: inc/customizer/options/class-wt-customizer-woo.php:409
+#: inc/customizer/options/class-wt-customizer-woo.php:433
+#: inc/customizer/options/class-wt-customizer-woo.php:455
+msgid "3 - Item(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:160
+#: inc/customizer/options/class-wt-customizer-blog-post.php:185
+#: inc/customizer/options/class-wt-customizer-blog-post.php:210
+#: inc/customizer/options/class-wt-customizer-portfolio.php:261
+#: inc/customizer/options/class-wt-customizer-portfolio.php:286
+#: inc/customizer/options/class-wt-customizer-portfolio.php:311
+#: inc/customizer/options/class-wt-customizer-portfolio.php:336
+#: inc/customizer/options/class-wt-customizer-portfolio.php:361
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:120
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:147
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:171
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:195
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:667
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:691
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:715
+#: inc/customizer/options/class-wt-customizer-woo.php:332
+#: inc/customizer/options/class-wt-customizer-woo.php:359
+#: inc/customizer/options/class-wt-customizer-woo.php:386
+#: inc/customizer/options/class-wt-customizer-woo.php:410
+#: inc/customizer/options/class-wt-customizer-woo.php:434
+msgid "4 - Item(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:161
+#: inc/customizer/options/class-wt-customizer-blog-post.php:186
+#: inc/customizer/options/class-wt-customizer-portfolio.php:262
+#: inc/customizer/options/class-wt-customizer-portfolio.php:287
+#: inc/customizer/options/class-wt-customizer-portfolio.php:312
+#: inc/customizer/options/class-wt-customizer-portfolio.php:337
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:121
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:148
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:172
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:668
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:692
+#: inc/customizer/options/class-wt-customizer-woo.php:333
+#: inc/customizer/options/class-wt-customizer-woo.php:360
+#: inc/customizer/options/class-wt-customizer-woo.php:387
+#: inc/customizer/options/class-wt-customizer-woo.php:411
+msgid "5 - Item(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:162
+#: inc/customizer/options/class-wt-customizer-blog-post.php:187
+#: inc/customizer/options/class-wt-customizer-portfolio.php:263
+#: inc/customizer/options/class-wt-customizer-portfolio.php:288
+#: inc/customizer/options/class-wt-customizer-portfolio.php:313
+#: inc/customizer/options/class-wt-customizer-portfolio.php:338
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:122
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:149
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:173
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:669
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:693
+#: inc/customizer/options/class-wt-customizer-woo.php:334
+#: inc/customizer/options/class-wt-customizer-woo.php:361
+#: inc/customizer/options/class-wt-customizer-woo.php:388
+#: inc/customizer/options/class-wt-customizer-woo.php:412
+msgid "6 - Item(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:201
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:186
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:706
+msgid "Small devices (landscape phones, less than 768px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:224
+#: inc/customizer/options/class-wt-customizer-portfolio.php:375
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:208
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:728
+#: inc/customizer/options/class-wt-customizer-woo.php:447
+msgid "Extra small devices (portrait phones, less than 576px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:245
+#: inc/customizer/options/class-wt-customizer-blog-post.php:296
+#: inc/customizer/options/class-wt-customizer-blog-post.php:672
+#: inc/customizer/options/class-wt-customizer-blog-post.php:724
+#: inc/customizer/options/class-wt-customizer-page-title.php:33
+#: inc/customizer/options/class-wt-customizer-portfolio.php:396
+#: inc/customizer/options/class-wt-customizer-portfolio.php:447
+#: inc/customizer/options/class-wt-customizer-portfolio.php:791
+#: inc/customizer/options/class-wt-customizer-portfolio.php:842
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:403
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:454
+#: inc/customizer/options/class-wt-customizer-woo.php:168
+#: inc/customizer/options/class-wt-customizer-woo.php:219
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:260
+#: inc/customizer/options/class-wt-customizer-blog-post.php:687
+#: inc/customizer/options/class-wt-customizer-portfolio.php:411
+#: inc/customizer/options/class-wt-customizer-portfolio.php:806
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:418
+#: inc/customizer/options/class-wt-customizer-woo.php:183
+msgid "Show Page Title Section"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:275
+#: inc/customizer/options/class-wt-customizer-blog-post.php:703
+#: inc/customizer/options/class-wt-customizer-portfolio.php:426
+#: inc/customizer/options/class-wt-customizer-portfolio.php:821
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:433
+#: inc/customizer/options/class-wt-customizer-woo.php:198
+msgid "Page Title Alignment"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:282
+#: inc/customizer/options/class-wt-customizer-blog-post.php:710
+#: inc/customizer/options/class-wt-customizer-portfolio.php:433
+#: inc/customizer/options/class-wt-customizer-portfolio.php:828
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:440
+#: inc/customizer/options/class-wt-customizer-woo.php:205
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:302
+#: inc/customizer/options/class-wt-customizer-blog-post.php:730
+#: inc/customizer/options/class-wt-customizer-portfolio.php:453
+#: inc/customizer/options/class-wt-customizer-portfolio.php:848
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:460
+#: inc/customizer/options/class-wt-customizer-woo.php:225
+msgid "Custom Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:334
+#: inc/customizer/options/class-wt-customizer-blog-post.php:762
+#: inc/customizer/options/class-wt-customizer-portfolio.php:484
+#: inc/customizer/options/class-wt-customizer-portfolio.php:879
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:491
+#: inc/customizer/options/class-wt-customizer-woo.php:256
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:354
+#: inc/customizer/options/class-wt-customizer-blog-post.php:783
+#: inc/customizer/options/class-wt-customizer-portfolio.php:504
+#: inc/customizer/options/class-wt-customizer-portfolio.php:900
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:512
+#: inc/customizer/options/class-wt-customizer-woo.php:276
+msgid "Backgournd Image"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:355
+#: inc/customizer/options/class-wt-customizer-blog-post.php:784
+#: inc/customizer/options/class-wt-customizer-page-title.php:219
+#: inc/customizer/options/class-wt-customizer-portfolio.php:505
+#: inc/customizer/options/class-wt-customizer-portfolio.php:901
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:513
+#: inc/customizer/options/class-wt-customizer-woo.php:277
+msgid "Select the image to be used for page title background"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:371
+#: inc/customizer/options/class-wt-customizer-portfolio.php:521
+#: inc/customizer/options/class-wt-customizer-portfolio.php:917
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:529
+#: inc/customizer/options/class-wt-customizer-woo.php:293
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:385
+#: inc/customizer/options/class-wt-customizer-blog-post.php:407
+#: inc/customizer/options/class-wt-customizer-blog-post.php:819
+#: inc/customizer/options/class-wt-customizer-blog-post.php:842
+#: inc/customizer/options/class-wt-customizer-portfolio.php:535
+#: inc/customizer/options/class-wt-customizer-portfolio.php:558
+#: inc/customizer/options/class-wt-customizer-portfolio.php:931
+#: inc/customizer/options/class-wt-customizer-portfolio.php:953
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:400
+#: inc/customizer/options/class-wt-customizer-blog-post.php:834
+#: inc/customizer/options/class-wt-customizer-portfolio.php:550
+#: inc/customizer/options/class-wt-customizer-portfolio.php:946
+msgid "Sections Positioning"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:404
+#: inc/customizer/options/class-wt-customizer-blog-post.php:839
+#: inc/customizer/options/class-wt-customizer-portfolio.php:555
+#: inc/customizer/options/class-wt-customizer-portfolio.php:951
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:405
+#: inc/customizer/options/class-wt-customizer-blog-post.php:840
+#: inc/customizer/options/class-wt-customizer-portfolio.php:220
+#: inc/customizer/options/class-wt-customizer-portfolio.php:557
+#: inc/customizer/options/class-wt-customizer-portfolio.php:952
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1048
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:406
+#: inc/customizer/options/class-wt-customizer-blog-post.php:428
+#: inc/customizer/options/class-wt-customizer-blog-post.php:841
+#: inc/customizer/options/class-wt-customizer-blog-post.php:865
+#: inc/customizer/options/class-wt-customizer-portfolio.php:560
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:408
+#: inc/customizer/options/class-wt-customizer-blog-post.php:433
+#: inc/customizer/options/class-wt-customizer-blog-post.php:838
+#: inc/customizer/options/class-wt-customizer-blog-post.php:870
+#: inc/customizer/options/class-wt-customizer-portfolio.php:556
+#: inc/customizer/options/class-wt-customizer-portfolio.php:950
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:409
+#: inc/customizer/options/class-wt-customizer-blog-post.php:434
+#: inc/customizer/options/class-wt-customizer-blog-post.php:843
+#: inc/customizer/options/class-wt-customizer-blog-post.php:871
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1078
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:410
+#: inc/customizer/options/class-wt-customizer-blog-post.php:844
+#: inc/customizer/options/class-wt-customizer-portfolio.php:559
+#: inc/customizer/options/class-wt-customizer-portfolio.php:956
+#: inc/customizer/options/class-wt-customizer-social.php:41
+#: inc/customizer/options/class-wt-customizer-social.php:160
+#: inc/customizer/options/class-wt-customizer-topbar.php:199
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:411
+#: inc/customizer/options/class-wt-customizer-blog-post.php:548
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1008
+#: inc/customizer/options/class-wt-customizer-portfolio.php:561
+#: inc/customizer/options/class-wt-customizer-portfolio.php:643
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1129
+#: template-parts/portfolio-loop/read-more.php:55
+#: template-parts/single-portfolio/read-more.php:22
+#: template-parts/single-post/read-more.php:22
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:432
+#: inc/customizer/options/class-wt-customizer-blog-post.php:869
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:436
+#: inc/customizer/options/class-wt-customizer-blog-post.php:873
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:437
+#: inc/customizer/options/class-wt-customizer-blog-post.php:874
+msgid "Reading Time"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:454
+#: inc/customizer/options/class-wt-customizer-blog-post.php:967
+#: inc/customizer/options/class-wt-customizer-portfolio.php:578
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1086
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:459
+#: inc/customizer/options/class-wt-customizer-blog-post.php:972
+#: inc/customizer/options/class-wt-customizer-portfolio.php:583
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1091
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:473
+#: inc/customizer/options/class-wt-customizer-blog-post.php:988
+#: inc/customizer/options/class-wt-customizer-portfolio.php:598
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1108
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:474
+msgid "Show Blog / Archive Post Content Summery."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:498
+#: inc/customizer/options/class-wt-customizer-blog-post.php:897
+#: inc/customizer/options/class-wt-customizer-portfolio.php:623
+#: inc/customizer/options/class-wt-customizer-portfolio.php:980
+#: inc/customizer/options/class-wt-customizer-social.php:200
+#: inc/customizer/options/class-wt-customizer-social.php:335
+#: inc/customizer/options/class-wt-customizer-social.php:357
+msgid "Social Share Links"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:518
+msgid "Show Facy Date"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:533
+msgid "Show Read Time With Tags"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:554
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1014
+#: inc/customizer/options/class-wt-customizer-portfolio.php:649
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1135
+msgid "Link (Default)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:555
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1015
+#: inc/customizer/options/class-wt-customizer-portfolio.php:650
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1136
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:569
+#: inc/customizer/options/class-wt-customizer-portfolio.php:687
+#: inc/customizer/options/class-wt-customizer-woo.php:533
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:576
+#: inc/customizer/options/class-wt-customizer-portfolio.php:694
+#: inc/customizer/options/class-wt-customizer-woo.php:540
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:577
+#: inc/customizer/options/class-wt-customizer-portfolio.php:695
+#: inc/customizer/options/class-wt-customizer-woo.php:541
+msgid "Load More"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:592
+#: inc/customizer/options/class-wt-customizer-portfolio.php:710
+#: inc/customizer/options/class-wt-customizer-woo.php:556
+msgid "Pagination Last Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:610
+#: inc/customizer/options/class-wt-customizer-portfolio.php:728
+#: inc/customizer/options/class-wt-customizer-woo.php:574
+msgid "Load More Button Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:621
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:656
+#: inc/customizer/options/class-wt-customizer-portfolio.php:775
+msgid "Choose sidebar for display on singlular page."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:768
+#: inc/customizer/options/class-wt-customizer-portfolio.php:885
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:497
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:800
+msgid "Page Title Content"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:806
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:845
+msgid "Author Info"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:846
+msgid "Next/Prev"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:847
+#: inc/customizer/options/class-wt-customizer-blog-post.php:916
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:932
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:989
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1109
+msgid "Show Post Content Summery."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1016
+#: inc/customizer/options/class-wt-customizer-page-title.php:447
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1030
+msgid "Show Numbers of Related Posts"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1051
+msgid "Show Related Posts Columns"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1072
+msgid "Related Posts Taxonomy"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-blog-post.php:1077
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-footer.php:28
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-footer.php:44
+msgid "Select custom footer from Layouts Builder"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-footer.php:56
+msgid "Copyright &copy; 2023. All rights reserved."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-footer.php:60
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-footer.php:77
+#: inc/customizer/options/class-wt-customizer-general.php:318
+#: inc/customizer/options/class-wt-customizer-general.php:373
+#: inc/customizer/options/class-wt-customizer-header.php:179
+#: inc/customizer/options/class-wt-customizer-header.php:293
+#: inc/customizer/options/class-wt-customizer-mobile.php:231
+#: inc/customizer/options/class-wt-customizer-page-title.php:495
+#: inc/customizer/options/class-wt-customizer-topbar.php:88
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-footer.php:93
+#: inc/customizer/options/class-wt-customizer-general.php:403
+#: inc/customizer/options/class-wt-customizer-header.php:195
+#: inc/customizer/options/class-wt-customizer-header.php:308
+#: inc/customizer/options/class-wt-customizer-mobile.php:246
+#: inc/customizer/options/class-wt-customizer-page-title.php:511
+#: inc/customizer/options/class-wt-customizer-topbar.php:104
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:32
+#: inc/customizer/options/class-wt-customizer-topbar.php:39
+msgid "General"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:41
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:55
+msgid "Layout Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:60
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:61
+#: inc/customizer/options/class-wt-customizer-social.php:277
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:62
+#: inc/customizer/options/class-wt-customizer-general.php:502
+msgid "Predefine"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:75
+msgid "Container Width (px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:95
+msgid "Boxed Width (px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:115
+msgid "Outer Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:131
+msgid "Inner Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:146
+#: inc/customizer/options/class-wt-customizer-pages.php:32
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:176
+#: inc/customizer/options/class-wt-customizer-general.php:229
+msgid "General Styling"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:191
+msgid "Styling Options Location"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:192
+msgid ""
+"If you choose Custom File, a CSS file will be created in your "
+"uploads folder."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:198
+msgid "WP Head"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:199
+msgid "Custom File"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:213
+msgid "Add Currency Flags Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:214
+msgid "Add currency flags like home version 15."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:244
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:259
+msgid "Theme Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:274
+#: inc/customizer/options/class-wt-customizer-mobile.php:261
+#: inc/customizer/options/class-wt-customizer-page-title.php:543
+#: inc/customizer/options/class-wt-customizer-topbar.php:121
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:289
+#: inc/customizer/options/class-wt-customizer-mobile.php:276
+#: inc/customizer/options/class-wt-customizer-page-title.php:559
+#: inc/customizer/options/class-wt-customizer-topbar.php:138
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:303
+msgid "Site Background"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:334
+msgid "Select the image to be used for site background"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:345
+#: inc/customizer/options/class-wt-customizer-general.php:458
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:358
+msgid "General Buttons"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:388
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:418
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:433
+#: inc/customizer/options/class-wt-customizer-topbar.php:154
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:448
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:468
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:482
+msgid "Show Preloader"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:497
+msgid "Preloader Type"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:517
+msgid "Preloader Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:533
+msgid "Preloader Image"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:545
+msgid "Newsletter Popup"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:559
+msgid "Newsletter Popup Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:561
+msgid "Select newsletter popup layout from Layouts Builder"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:579
+msgid "Newsletter Delay"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-general.php:580
+msgid "Add delay time in millisecond."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:31
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:40
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:86
+#: inc/customizer/options/class-wt-customizer-mobile.php:184
+msgid "Show Search Content"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:103
+msgid "Select header right layout from Layouts Builder"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:121
+msgid "Header Shop Right Button"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:125
+#: inc/customizer/options/class-wt-customizer-mobile.php:133
+msgid "Register Button"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:126
+#: inc/customizer/options/class-wt-customizer-mobile.php:134
+msgid "SignIn - Account Button"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:127
+#: inc/customizer/options/class-wt-customizer-mobile.php:135
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:146
+msgid "Advance Navigation Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:148
+msgid "Select header advance manu from Layouts Builder"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:163
+#: inc/customizer/options/class-wt-customizer-header.php:332
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:206
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:217
+#: inc/customizer/options/class-wt-customizer-mobile.php:73
+msgid "Max Width(px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:233
+#: inc/customizer/options/class-wt-customizer-mobile.php:89
+msgid "Max Height(px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:249
+#: inc/customizer/options/class-wt-customizer-header.php:263
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:278
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:319
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:348
+msgid "NavBar Menu Font Size"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:349
+#: inc/customizer/options/class-wt-customizer-page-title.php:479
+#: inc/customizer/options/class-wt-customizer-typography.php:285
+msgid "You can add size in (px,em,%)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:364
+msgid "NavBar Menu Font Weight"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:371
+#: inc/customizer/options/class-wt-customizer-typography.php:191
+msgid "Thin: 100"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:372
+#: inc/customizer/options/class-wt-customizer-typography.php:192
+msgid "Light: 200"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:373
+#: inc/customizer/options/class-wt-customizer-typography.php:193
+msgid "Book: 300"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:374
+#: inc/customizer/options/class-wt-customizer-typography.php:194
+msgid "Normal: 400"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:375
+#: inc/customizer/options/class-wt-customizer-typography.php:195
+msgid "Medium: 500"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:376
+#: inc/customizer/options/class-wt-customizer-typography.php:196
+msgid "Semibold: 600"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:377
+#: inc/customizer/options/class-wt-customizer-typography.php:197
+msgid "Bold: 700"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:378
+#: inc/customizer/options/class-wt-customizer-typography.php:198
+msgid "Extra Bold: 800"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:379
+#: inc/customizer/options/class-wt-customizer-typography.php:199
+msgid "Black: 900"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:392
+msgid "NavBar Menu Text Transform"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:399
+#: inc/customizer/options/class-wt-customizer-typography.php:259
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:400
+#: inc/customizer/options/class-wt-customizer-typography.php:260
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:401
+#: inc/customizer/options/class-wt-customizer-typography.php:261
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:402
+#: inc/customizer/options/class-wt-customizer-typography.php:262
+#: inc/helpers.php:1463 inc/helpers.php:1512 inc/helpers.php:1547
+#: inc/helpers.php:1583 inc/helpers.php:1623
+msgid "None"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:417
+msgid "NavBar Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:433
+msgid "NavBar Menu Hover Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:449
+msgid "NavBar Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:465
+msgid "NavBar Menu Text Hover Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:479
+msgid "Megamenu"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:495
+msgid "Megamenu Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:511
+msgid "Megamenu Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:527
+msgid "Megamenu Columns Heading Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:543
+msgid "Megamenu Border Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:559
+msgid "Megamenu Link Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-header.php:575
+msgid "Megamenu Link Hover Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:31
+msgid "Mobile"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:44
+msgid "Mobile Header"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:60
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:61
+msgid "Select the image to be used for mobile header logo."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:110
+msgid ""
+"Select right mobile header layout from Layouts Builder or Predefined "
+"Layouts "
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:129
+msgid "Header Shop Right Buttons"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:153
+msgid "Flyout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:169
+msgid "Flyout Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:199
+msgid "Mobile Flyout Bottom Content"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:201
+msgid ""
+"Select custom layout for show mobile flyout bottom content from "
+"Layouts Builder"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-mobile.php:216
+msgid "Mobile Header Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:47
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:83
+msgid "Show Page Title Heading"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:167
+msgid "Padding (px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:196
+msgid "Background Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:383
+msgid "Style - 1 (Default)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:384
+msgid "Style - 2"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:412
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:427
+msgid "Show Item Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:442
+msgid "Home Item Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:448
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:461
+msgid "Styling"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-page-title.php:527
+msgid "Separator Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-pages.php:41
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-pages.php:58
+msgid "Heading Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-pages.php:74
+msgid "Content Body Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-pages.php:92
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:32
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:41
+msgid "Portfolio / Archive"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:76
+msgid "Choose sidebar for display on the Portfolio / Archive page."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:116
+msgid "Portfolio View"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:122
+msgid "Gallery Filter - Light"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:123
+msgid "Gallery Filter - Dark"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:124
+msgid "Grid - Light"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:125
+msgid "Grid - Dark"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:126
+msgid "List - Light"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:127
+msgid "List - Dark"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:172
+msgid "Box Style - 1"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:173
+msgid "Box Style - 2"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:174
+msgid "Box Style - 3"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:187
+msgid "Show Section Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:203
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1031
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:235
+msgid "Portfolio Columns"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:236
+msgid ""
+"Show numbers of items below list of screen size. Portfolio columns "
+"settings apply only grid and slider."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:252
+#: inc/customizer/options/class-wt-customizer-woo.php:323
+msgid "Large devices (larger desktops, 1400px and up)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:277
+#: inc/customizer/options/class-wt-customizer-woo.php:350
+msgid "Large devices (large desktops, 1200px and up)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:327
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:162
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:682
+#: inc/customizer/options/class-wt-customizer-woo.php:401
+msgid "Medium devices (tablets, less than 992px)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:352
+#: inc/customizer/options/class-wt-customizer-woo.php:425
+msgid "Small devices (landscape phones, 576px and up)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:551
+msgid "Section positioning working only default post style view."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:599
+msgid "Show Portfolio / Archive Post Content Summery."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:651
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1137
+msgid "Icon( Plus ) with Popup"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:652
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1138
+msgid "Icon( External Link ) with Popup"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:653
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1139
+msgid "Icon( Plus ) with Link"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:654
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1140
+msgid "Icon( External Link ) with Link"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:668
+msgid "Portfolio Per Page"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:740
+msgid "Single Portfolio"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:954
+msgid "Highlights"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:955
+msgid "Skills"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:999
+msgid "Related Portfolios"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1015
+msgid "Show Related Portfolio"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1155
+msgid "Remove Items Padding"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1171
+msgid "Show Numbers of Related Portfolios"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-portfolio.php:1192
+msgid "Show Related Portfolios Columns"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:32
+msgid "Social"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:42
+msgid "Show social links icon on header and footer"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:56
+msgid "Enable Social Links"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:71
+#: inc/customizer/options/class-wt-customizer-social.php:246
+msgid "Links Display Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:77
+#: inc/customizer/options/class-wt-customizer-social.php:252
+msgid "Only Icon ( Default )"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:78
+#: inc/customizer/options/class-wt-customizer-social.php:253
+msgid "Icon with Label"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:79
+#: inc/customizer/options/class-wt-customizer-social.php:254
+msgid "Only Label"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:93
+#: inc/customizer/options/class-wt-customizer-social.php:268
+msgid "Icon Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:100
+msgid "Colored"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:101
+#: inc/customizer/options/class-wt-customizer-social.php:276
+msgid "Bordered"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:102
+msgid "Fill Colored"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:116
+#: inc/customizer/options/class-wt-customizer-social.php:291
+msgid "Icon Shape"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:123
+#: inc/customizer/options/class-wt-customizer-social.php:298
+msgid "Rounded"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:124
+#: inc/customizer/options/class-wt-customizer-social.php:299
+msgid "Circle"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:138
+#: inc/customizer/options/class-wt-customizer-social.php:313
+msgid "Icon Size"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:144
+#: inc/customizer/options/class-wt-customizer-social.php:319
+msgid "XSmall"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:145
+#: inc/customizer/options/class-wt-customizer-social.php:320
+msgid "Small"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:146
+#: inc/customizer/options/class-wt-customizer-social.php:321
+msgid "Medium (Default)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:147
+#: inc/customizer/options/class-wt-customizer-social.php:322
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:201
+msgid ""
+"Show social share links icon on blog, posts, products, portfolios "
+"etc.."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:215
+msgid "Enable Social Share Links"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:230
+msgid "Show Social Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-social.php:275
+msgid "Flat"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-topbar.php:53
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-topbar.php:166
+msgid "Topbar Social"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-topbar.php:177
+msgid "Enable Top Bar Social"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:37
+#: inc/customizer/options/class-wt-customizer-typography.php:84
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:49
+msgid "All Headings"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:75
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:156
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:182
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:183
+msgid "Important: Not all fonts support every font-weight."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:220
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:229
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:251
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:284
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:310
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-typography.php:341
+msgid "Font Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:33
+msgid "Cart"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:46
+msgid "Products Slider"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:61
+msgid "Enable Cross Sells Products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:76
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:622
+msgid "Show Number of Products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:96
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:642
+msgid "<b>Show numbers of products below list of screen size.</b>"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:111
+msgid "Extra Extra large devices (extra large desktops, 1740px and up)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:123
+#: inc/customizer/options/class-wt-customizer-woo.php:335
+#: inc/customizer/options/class-wt-customizer-woo.php:362
+msgid "7 - Item(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:124
+#: inc/customizer/options/class-wt-customizer-woo.php:336
+#: inc/customizer/options/class-wt-customizer-woo.php:363
+msgid "8 - Item(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:229
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:749
+msgid "Enable Carousel"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:244
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:764
+msgid "Carousel Autoplay"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:260
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:780
+msgid "Carousel Loop"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:276
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:796
+msgid "Carousel Navigation"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-cart.php:292
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:812
+msgid "Carousel Dots Navigation"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-categories-styles.php:33
+#: inc/customizer/options/class-wt-customizer-woo-categories-styles.php:47
+msgid "Categories Styles"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-categories-styles.php:67
+msgid "Show Products Count"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:34
+msgid "Single Product"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:48
+msgid "Product Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:69
+msgid "Choose sidebar for display on the single product page."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:94
+msgid "Image Width (Column)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:95
+msgid ""
+"Select number of bootstrap columns want to show for image width."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:127
+msgid "Summary Width (Column)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:128
+msgid ""
+"Select number of bootstrap columns want to show for summary width."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:152
+msgid "Sale Label/Badge"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:158
+msgid "On Product Image"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:159
+msgid "After Price"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:173
+#: inc/customizer/options/class-wt-customizer-woo.php:1549
+msgid "Sale Percentage Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:174
+#: inc/customizer/options/class-wt-customizer-woo.php:1550
+#, no-php-format
+msgid ""
+"Display sale percentage text like 10% off, \"{percentage}\" is "
+"dynamic value."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:205
+msgid "Enable Product Gallery Zoom"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:220
+msgid "Enable Gallery Lightbox"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:235
+msgid "Gallery Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:241
+msgid "Horizontal"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:242
+msgid "Verticle"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:254
+msgid "Summary"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:269
+msgid "Product Rating"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:284
+msgid "Product Availability"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:285
+msgid ""
+"Show Product availability message like In Stock, Out of Stock, Hurry "
+"left, etc..."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:300
+msgid "In Stock Message"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:317
+msgid "Low Stock Qty"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:318
+msgid ""
+"Display numbers of quentity in low stock qty message like Hurry, "
+"Only {qty} left in stock. if you want to hide then set \"0\"."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:338
+msgid "Low Stock Qty Message"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:339
+msgid ""
+"Display Low stock Message Hurry, Only {qty} left in stock. {qty} is "
+"the dynamic value of the low stock quentity value."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:356
+msgid "Out of Stock Message"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:373
+msgid "Product Short Description"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:388
+msgid "Product Meta"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:389
+msgid "Show/Hide SKU, Cateatory, Tags etc.."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:543
+msgid "Tabs"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:558
+msgid "Tabs Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:564
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:565
+msgid "Fancy Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:577
+msgid "Upsell/Related Products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:592
+msgid "Enable Upsell Products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo-single-product.php:607
+msgid "Enable Related Products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:34
+msgid "Shop / Archive Page"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:47
+msgid "Shop / Archive : General"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:62
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:83
+msgid "Choose sidebar for display on the Shop / Archive page."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:100
+msgid "Shop page display"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:101
+msgid "Choose what to display on the main shop page."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:107
+#: inc/customizer/options/class-wt-customizer-woo.php:129
+msgid "Show products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:108
+msgid "Show categories"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:109
+msgid "Show categories and products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:122
+msgid "Category page display"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:123
+msgid "Choose what to display on the main category page."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:130
+msgid "Show subcategories"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:131
+msgid "Show subcategories and products"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:144
+msgid "Default products sorting"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:145
+msgid "How should products be sorted in the catalog by default?"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:151
+msgid "Default sorting (custom ordering + name)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:152
+msgid "Popularity (sales)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:153
+msgid "Average rating"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:154
+msgid "Sort by most recent"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:155
+msgid "Sort by price (asc)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:156
+msgid "Sort by price (desc)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:307
+msgid "Shop / Archive : Columns"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:308
+msgid "Show numbers of items below list of screen size."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:467
+msgid "Toolbar"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:482
+msgid "Shop Sort"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:497
+msgid "Shop Result Count"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:513
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:589
+msgid "Archove / Shop : Image"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:604
+msgid "Product Image Style"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:610
+msgid "Image Swape"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:611
+msgid "Image Slider"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:624
+msgid "Product Image Swap Effect"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:629
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:630
+msgid "Flilp"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:631
+msgid "Verticle Slide"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:645
+msgid "Product Images Slider Nums of Images"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:671
+msgid "Product Image Slider Auto Play"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:687
+msgid "Product Image Slider Loop"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:703
+msgid "Product Image Slider Show Navigation"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:719
+msgid "Product Image Slider Show Dots Navigation"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:735
+msgid "Lazy Load"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:736
+msgid "Enable Lazy Load for Product Image"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:758
+msgid "Archove / Shop : Category"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:773
+msgid "Show Product Categories"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:789
+msgid "Category Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:805
+msgid "Category Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:819
+msgid "Archove / Shop : Title"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:835
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:851
+msgid "Title Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:865
+msgid "Archove / Shop : Ratings"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:880
+msgid "Show Product Ratings"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:895
+msgid "Show Product Ratings Count"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:912
+msgid "Ratings Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:929
+msgid "Ratings Color : Active"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:944
+msgid "Archove / Shop : Description"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:959
+msgid "Show Product Description"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:960
+msgid "Short description display only product listing view"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:976
+msgid "Description Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:992
+msgid "Archove / Shop : Price"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1007
+msgid "Show Product Price"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1023
+msgid "Price Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1039
+msgid "Old Price Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1053
+msgid "Archove / Shop : Add to Cart Button"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1068
+msgid "Show Add to Cart Button"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1085
+msgid "Add to Cart Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1101
+msgid "Add to Cart Border Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1117
+msgid "Add to Cart Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1133
+msgid "Add to Cart Background Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1149
+msgid "Add to Cart Border Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1165
+msgid "Add to Cart Text Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1181
+msgid "Add to Cart Background Color : Active"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1197
+msgid "Add to Cart Border Color : Active"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1213
+msgid "Add to Cart Text Color : Active"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1227
+msgid "Archove / Shop : Quickview Button"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1242
+msgid "Show Quickview"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1258
+msgid "Quickview Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1275
+msgid "Quickview Border Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1292
+msgid "Quickview Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1309
+msgid "Quickview Background Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1326
+msgid "Quickview Border Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1343
+msgid "Quickview Text Color : Hover"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1354
+msgid "Badges / Labels"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1368
+msgid "Show Product Badges / Labels "
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1369
+msgid "Show Badges like Sale, Fatured, Out of Stock etc."
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1383
+msgid "New Badge"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1398
+msgid "Show Badge New"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1414
+msgid "New Label Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1430
+msgid "Newness Product Day(s)"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1431
+msgid "You can add numbers of days want to display New badge"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1448
+msgid "New Badge Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1465
+msgid "New Badge Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1481
+msgid "Sale Badge"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1496
+msgid "Show Badge Sale"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1512
+msgid "Sale Badge Type"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1518
+msgid "Sale Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1519
+msgid "Percentage"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1533
+msgid "Sale Label Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1567
+msgid "Sale Badge Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1584
+msgid "Sale Badge Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1600
+msgid "Featured Badge"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1615
+msgid "Show Badge Featured"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1631
+msgid "Featured Label Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1648
+msgid "Featured Badge Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1665
+msgid "Featured Badge Text Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1680
+msgid "Out of Stock Badge"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1695
+msgid "Show Badge Out of Stock"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1711
+msgid "OutofStock Label Text"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1728
+msgid "OutofStock Badge Background Color"
+msgstr ""
+
+#: inc/customizer/options/class-wt-customizer-woo.php:1745
+msgid "OutofStock Badge Text Color"
+msgstr ""
+
+#: inc/helpers.php:879
+msgid "No more pages to load"
+msgstr ""
+
+#: inc/helpers.php:881
+msgid "Prev Posts"
+msgstr ""
+
+#: inc/helpers.php:882
+msgid "Next Posts"
+msgstr ""
+
+#: inc/helpers.php:1135
+msgid "Contact Number"
+msgstr ""
+
+#: inc/helpers.php:1139
+msgid "Time"
+msgstr ""
+
+#: inc/helpers.php:1184
+msgid "Header - v1 ( Default Menu )"
+msgstr ""
+
+#: inc/helpers.php:1185
+msgid "Header - v2 ( White Menu )"
+msgstr ""
+
+#: inc/helpers.php:1513 inc/helpers.php:1548
+msgid "Shop Buttons"
+msgstr ""
+
+#: inc/helpers.php:1781 inc/helpers.php:1827
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/helpers.php:1783 inc/helpers.php:1829
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/helpers.php:1783 inc/helpers.php:1829
+msgid "F Y"
+msgstr ""
+
+#: inc/helpers.php:1785 inc/helpers.php:1831
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/helpers.php:1812
+msgid "Search Results Found"
+msgstr ""
+
+#: inc/helpers.php:1841
+msgid "404: Page Not Found"
+msgstr ""
+
+#: inc/helpers.php:1856
+msgid "Our Portfolio"
+msgstr ""
+
+#: inc/helpers.php:1863
+msgid "Our Catalog"
+msgstr ""
+
+#: inc/helpers.php:2377
+msgid "Simple"
+msgstr ""
+
+#: inc/helpers.php:2702 inc/helpers.php:2845
+msgid "Facebook"
+msgstr ""
+
+#: inc/helpers.php:2703 inc/helpers.php:2708 inc/helpers.php:2713
+#: inc/helpers.php:2718 inc/helpers.php:2723 inc/helpers.php:2728
+#: inc/helpers.php:2733 inc/helpers.php:2738 inc/helpers.php:2743
+#: inc/helpers.php:2748 inc/helpers.php:2753 inc/helpers.php:2758
+#: inc/helpers.php:2763
+msgid "Enter your custom links. Leave blank to hide icon."
+msgstr ""
+
+#: inc/helpers.php:2707 inc/helpers.php:2850
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers.php:2712 inc/helpers.php:2855
+msgid "Instagram"
+msgstr ""
+
+#: inc/helpers.php:2717 inc/helpers.php:2860
+msgid "Pinterest"
+msgstr ""
+
+#: inc/helpers.php:2722
+msgid "Google Plus"
+msgstr ""
+
+#: inc/helpers.php:2727 inc/helpers.php:2865
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/helpers.php:2732 inc/helpers.php:2875
+msgid "Tumblr"
+msgstr ""
+
+#: inc/helpers.php:2737 inc/helpers.php:2870
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/helpers.php:2742
+msgid "Github"
+msgstr ""
+
+#: inc/helpers.php:2747
+msgid "Youtube"
+msgstr ""
+
+#: inc/helpers.php:2752
+msgid "Vimeo"
+msgstr ""
+
+#: inc/helpers.php:2757
+msgid "RSS"
+msgstr ""
+
+#: inc/helpers.php:2762
+msgid "Email"
+msgstr ""
+
+#: inc/helpers.php:2880
+msgid "E-Mail"
+msgstr ""
+
+#: inc/helpers.php:2885
+msgid "Telegram"
+msgstr ""
+
+#: inc/helpers.php:2890
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/helpers.php:2895
+msgid "Reddit"
+msgstr ""
+
+#: inc/helpers.php:3310
+#, php-format
+msgid "Continue reading &quot;%s&quot;"
+msgstr ""
+
+#: inc/helpers.php:3362
+msgid "min read"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to "
+"ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:393
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:920
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2626
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:394
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:395
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this "
+"theme. Please update the plugin."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, "
+"update or activate."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:607
+msgid ""
+"This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired "
+"slug and renaming did not work."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:1027
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their "
+"plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the "
+"files are not packaged in a folder."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:1214
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3041
+msgid "and"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2366
+#: inc/integrations/tgm/plugins-handler.php:194
+msgid "Required"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2575
+msgid "unknown"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2810
+#: inc/integrations/tgm/plugins-handler.php:200
+msgid "Install"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2816
+#: inc/integrations/tgm/plugins-handler.php:207
+msgid "Update"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2819
+#: inc/integrations/tgm/plugins-handler.php:214
+msgid "Activate"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process "
+"may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/integrations/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:197
+#, php-format
+msgid "Installation %s"
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:204
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:211
+#, php-format
+msgid "Activation %s"
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:218
+#: inc/integrations/tgm/plugins-handler.php:349
+msgid "Success"
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:274
+#: inc/integrations/tgm/plugins-handler.php:367
+msgid "No Slug Found"
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:295
+msgid "Activating "
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:310
+msgid "Updating "
+msgstr ""
+
+#: inc/integrations/tgm/plugins-handler.php:325
+msgid "Installing "
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:101
+msgid "Grid view"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:101
+msgid "List view"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:119
+msgid "Show :"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:275
+msgid "My Cart"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:276
+msgid "Close"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1220
+msgid "Quick View"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1370
+msgid "All"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1440
+#: inc/template-functions.php:451
+msgid "End of content"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1447
+msgid "More Posts"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1474
+#, php-format
+msgid "%s Product"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1702
+msgid "Previous Product"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1720
+msgid "Next Product"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1772
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1837
+msgid "SKU:"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:1837
+msgid "N/A"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:2033
+msgid "Welcome!"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:2079
+msgid "View cart"
+msgstr ""
+
+#: inc/integrations/woocommerce/wc-template-fuctions.php:2089
+msgid "Checkout"
+msgstr ""
+
+#: inc/integrations/woocommerce/woocommerce-config.php:129
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/integrations/woocommerce/woocommerce-config.php:131
+msgid ""
+"This sidebar will be used on Product archive, Cart, Checkout and My "
+"Account pages."
+msgstr ""
+
+#: inc/integrations/woocommerce/woocommerce-config.php:144
+msgid "WooCommerce Product Sidebar"
+msgstr ""
+
+#: inc/integrations/woocommerce/woocommerce-config.php:146
+msgid "This sidebar will be used on Single Product page."
+msgstr ""
+
+#: inc/integrations/woocommerce/woocommerce-config.php:173
+msgid "Filter Shop"
+msgstr ""
+
+#: inc/template-functions.php:459
+msgid "Load More Articles"
+msgstr ""
+
+#: inc/template-functions.php:525
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-functions.php:525
+msgid "Edit"
+msgstr ""
+
+#: inc/template-functions.php:543
+msgid " ago"
+msgstr ""
+
+#: inc/template-functions.php:549
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-functions.php:557
+msgid "Reply"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:88
+msgid "Menu Type"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:108
+msgid "Layout"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:124
+msgid "Megamenu Width"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:130
+msgid "Megamenu Height"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:139
+msgid "Columns"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:159
+msgid "Layout :"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:161
+msgid "Select Layout"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:169
+msgid "Edit Megamenu Layout"
+msgstr ""
+
+#: inc/walker/class-walker-nav-init.php:171
+msgid "Add Megamenu Layout"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Filters"
+msgstr ""
+
+#: template-parts/header/header-right-elements/mobile-shop.php:39
+#: template-parts/header/header-right-elements/mobile-signin-button.php:33
+#: template-parts/header/header-right-elements/shop.php:41
+msgid "Sign In"
+msgstr ""
+
+#: template-parts/header/header-right-elements/mobile-shop.php:50
+#: template-parts/header/header-right-elements/shop.php:52
+msgid "Register Now"
+msgstr ""
+
+#: template-parts/page/content.php:19
+msgid "Page"
+msgstr ""
+
+#: template-parts/page/content.php:22
+msgid "Page %"
+msgstr ""
+
+#: template-parts/portfolio-loop/author_bio.php:27
+#: template-parts/post-loop/author_bio.php:27
+#: template-parts/single-portfolio/author-bio.php:27
+#, php-format
+msgid "Published by %s"
+msgstr ""
+
+#: template-parts/portfolio-loop/author_bio.php:36
+#: template-parts/post-loop/author_bio.php:36
+#: template-parts/single-portfolio/author-bio.php:36
+msgid "View more posts"
+msgstr ""
+
+#: template-parts/portfolio-loop/content.php:40
+#: template-parts/post-loop/content.php:51
+#: template-parts/single-portfolio/content.php:40
+#: template-parts/single-post/content.php:40
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/portfolio-loop/meta.php:55
+#: template-parts/post-loop/meta.php:59
+#: template-parts/single-portfolio/meta.php:57
+#: template-parts/single-post/meta.php:54
+msgid "Comment"
+msgstr ""
+
+#: template-parts/portfolio-loop/meta.php:72
+#: template-parts/post-loop/meta.php:72
+#: template-parts/single-portfolio/meta.php:78
+#: template-parts/single-post/meta.php:71
+msgid "Edit "
+msgstr ""
+
+#: template-parts/portfolio-loop/social-links.php:19
+#: template-parts/single-portfolio/social-links.php:20
+msgid "Share :"
+msgstr ""
+
+#: template-parts/post-loop/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post-loop/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</"
+"a>."
+msgstr ""
+
+#: template-parts/post-loop/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"some different keywords."
+msgstr ""
+
+#: template-parts/post-loop/read-more.php:29
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/post-loop/social-links.php:19
+msgid "Share:"
+msgstr ""
+
+#: template-parts/post-loop/tags.php:25
+msgid "In "
+msgstr ""
+
+#: template-parts/post-loop/tags.php:40
+#: template-parts/single-post/tags.php:17
+msgid "Tags: "
+msgstr ""
+
+#: template-parts/single-portfolio/highlights.php:28
+msgid "View Live"
+msgstr ""
+
+#: template-parts/single-portfolio/next-prev.php:29
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/single-portfolio/next-prev.php:40
+#: template-parts/single-post/next-prev.php:43
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/single-portfolio/skills.php:19
+msgid "Skills: "
+msgstr ""
+
+#: template-parts/single-post/author-info.php:26
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: template-parts/single-post/discussion-meta.php:15
+#, php-format
+msgid "%d Comment"
+msgstr ""
+
+#: template-parts/single-post/discussion-meta.php:17
+msgid "No comments"
+msgstr ""
+
+#: template-parts/single-post/next-prev.php:30
+msgid "Prev Post"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:70
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:95
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:101
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:127
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141 woocommerce/cart/mini-cart.php:80
+#, php-format
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:163
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:163
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:163
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:170
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:118
+#: woocommerce/cart/mini-cart.php:135
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:130
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/content-product-full-info.php:76
+#: woocommerce/content-quickview.php:60
+#: woocommerce/single-product/product-image.php:58
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/content-product-full-info.php:119
+msgid "View Product"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:36
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:104
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:65
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:72
+msgid "Sign Up"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:81
+#: woocommerce/myaccount/form-login.php:118
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:97
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:110
+msgid ""
+"A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:40
+msgid "Be the first to review."
+msgstr ""

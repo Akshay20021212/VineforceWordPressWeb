@@ -1,0 +1,11 @@
+.elementor-element .killar-icon:after {
+    background-image: url(../images/elementor-icon.png);
+    content: '';
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

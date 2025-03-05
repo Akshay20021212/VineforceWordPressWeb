@@ -1,0 +1,1 @@
+wp.customize.controlConstructor['killarwt-radio-image'] = wp.customize.killarwtBaseControl.extend( {} );

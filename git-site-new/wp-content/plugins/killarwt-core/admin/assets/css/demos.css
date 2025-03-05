@@ -1,0 +1,12 @@
+.kwt-plugin {display: flex;justify-content: space-between;border-bottom: 1px solid #f2f2f2;line-height: normal;padding: 10px 0;}
+.kwt-plugin h2 {margin: 0;}
+#kwt-demo-import .kwt-popup-content, .kwt-import-status {margin: 40px 20px;text-align: center;}
+ul.kwt-import-items {width: auto;display: inline-block;margin: 0 auto;text-align: left;}
+.kwt-import-status p:before {display: inline-block;font: 400 18px/1 dashicons;vertical-align: bottom;margin-right: 5px;}
+.kwt-importing:before {content: "";border: 2px solid #e8e8e8;border-radius: 50%;border-top: 2px solid #0080ff;height: 10px;width: 10px;-webkit-animation: spin .8s linear infinite;animation: spin .5s linear infinite;position: absolute;transform: translate(-50%, -50%);z-index: 11;margin-left: -22px;margin-top: 3px;}
+.kwt-import-status .kwt-importing:after {display: none;}
+.kwt-import-status .kwt-imported:before {content: '\f147';color: #79ba49;}
+.kwt-demo-import-success {text-align: center;padding: 0 0 30px;}
+.kwt-demo-import-success a {display: inline-block;font-size: 12px;font-weight: 600;padding-bottom: 3px;border-bottom: 2px solid;margin-top: 6px;text-transform: uppercase;letter-spacing: .6px;text-decoration:none;}
+.kwt-importing-failed {color: red;}
+.theme-browser .theme .theme-name {box-sizing: content-box;}
