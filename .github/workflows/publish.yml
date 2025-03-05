@@ -3,7 +3,7 @@ name: Generate a build and push to another branch
 on:
   push:
     branches:
-      - main # The branch name your are commit the new changes
+      - main # The branch name you are committing the new changes to
 
 jobs:
   build:
@@ -15,10 +15,9 @@ jobs:
         
       - name: Push
         uses: s0/git-publish-subdir-action@develop
-
         with:
-          REPO: self
-          BRANCH: main # The branch name where you want to push the assets
-          FOLDER: VineforceWordPressWeb/git-site-new # The directory where your assets are generated
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
-          MESSAGE: "Build: ({sha}) {msg}" # The commit message
+          repo: self # 'self' means the same repo where this action is running
+          branch: main # The target branch where you want to push the assets
+          folder: VineforceWordPressWeb/git-site-new # The directory where your assets are generated
+          github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this token
+          message: "Build: ({sha}) {msg}" # The commit message
