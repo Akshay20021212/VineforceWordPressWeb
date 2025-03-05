@@ -16,7 +16,7 @@ jobs:
       - name: Push
         uses: s0/git-publish-subdir-action@develop
 
-        env:
+        with:
           REPO: self
           BRANCH: main # The branch name where you want to push the assets
           FOLDER: VineforceWordPressWeb/git-site-new # The directory where your assets are generated
