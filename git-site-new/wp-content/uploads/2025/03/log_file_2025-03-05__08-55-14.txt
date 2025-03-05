@@ -1,0 +1,147 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://git-site-new.test
+Data file = C:\Users\Vineforce\source\repos\VineforceWordPressWeb\git-site-new\wp-content\plugins\killarwt-core/admin/demo-data/demo-1/sample-data.xml
+Widget file = C:\Users\Vineforce\source\repos\VineforceWordPressWeb\git-site-new\wp-content\plugins\killarwt-core/admin/demo-data/demo-1/widgets.json
+Customizer file = C:\Users\Vineforce\source\repos\VineforceWordPressWeb\git-site-new\wp-content\plugins\killarwt-core/admin/demo-data/demo-1/customize.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "digital" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "hoodie-2.jpg" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "arrow-line" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-info" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "clean-1" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "cleaning-bg" (Media)
+[ERROR] Failed to import "img-3" (Media)
+[ERROR] Failed to import "img-4" (Media)
+[ERROR] Failed to import "img-5" (Media)
+[ERROR] Failed to import "img-10" (Media)
+[ERROR] Failed to import "team-4" (Media)
+[ERROR] Failed to import "team-7" (Media)
+[ERROR] Failed to import "team-8" (Media)
+
+
+---Importing widgets---
+WooCommerce Sidebar : 
+
+Product Categories - Categories - Imported
+Filter Products by Attribute - Filter by - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Block - No Title - Imported
+
+WooCommerce Product Sidebar : 
+
+Product Categories - Product categories - Imported
+
+Single Post Sidebar : 
+
+Search - No Title - Imported
+Categories - Categories: - Imported
+[KILLAR] Posts - Recent Posts - Imported
+Tag Cloud - Popular Tags: - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - Categories: - Imported
+[KILLAR] Posts - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
