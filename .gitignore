@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VineforceWordPressWeb/FileContentIndex
+/.vs/VineforceWordPressWeb/v17/.wsuo
+/.vs/slnx.sqlite
+*.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/VineforceWordPressWeb/v17/.wsuo
+/.vs/slnx.sqlite
