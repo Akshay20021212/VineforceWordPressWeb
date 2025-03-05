@@ -16,8 +16,8 @@ jobs:
       - name: Push
         uses: s0/git-publish-subdir-action@develop
 
-        with:
-          repo: self
+        env:
+          REPO: self
           BRANCH: main # The branch name where you want to push the assets
           FOLDER: VineforceWordPressWeb/git-site-new # The directory where your assets are generated
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
